@@ -12,7 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=sirius
 device.name2=xmsirius
-supported.versions=8.0 - 13.0
+supported.versions=8.0 - 14.0
 supported.patchlevels=
 '; } # end properties
 
